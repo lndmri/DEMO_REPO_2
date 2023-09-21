@@ -1,3 +1,3 @@
 #DEMO
 
-This is a drepository made for learning purposes!
+This is a repository made for learning purposes!
